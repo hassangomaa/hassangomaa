@@ -47,9 +47,22 @@ Mobile : +201022133467
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+ 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassangomaa&show_icons=true&locale=en&layout=compact" alt="Hassan Gomaa " /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassangomaa&show_icons=true&locale=en" alt="hassangomaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassangomaa&" alt="hassangomaa" /></p>
+
+
+
+<hr>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/hassangoma" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Hassan buy me a coffee" width="230"></a>
+</p>
+
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hassangomaa" alt="Hassan Gomaa"/>       
+</p>
+
