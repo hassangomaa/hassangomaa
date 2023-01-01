@@ -8,14 +8,14 @@
 ###  About Me:
 <p align="center">
  
-I'm Back End Developer at Orange Digital Orange Center, Studies at the faculty of Computer and Artificial Intelligence at Helwan University in Cairo.
-having good experience in several domains such as :
--Software Development : Full Stack using PHP/ MySQL, Laravel framework, HTML/ CSS/ JS and BootStrap Framework
--Cyber Security: Penetration testing, Offensive Security Certified Professional ( OSCP ), CCNA, CCNP Security,
--CyberOpS Associate SIEM and SOAR solution.
--Familiar with Hardware Digital Design and FPGA.
--Having good experience in Photo and Video Editing with Adobe PhotoShop and AfterEffects.
-- 📫 How to reach me 
+I'm Back End Developer at Orange Digital Orange Center, Studies at the faculty of Computer and Artificial Intelligence at Helwan University in Cairo.<br>
+having good experience in several domains such as : <br>
+-Software Development : Full Stack using PHP/ MySQL, Laravel framework, HTML/ CSS/ JS and BootStrap Framework <br>
+-Cyber Security: Penetration testing, Offensive Security Certified Professional ( OSCP ), CCNA, CCNP Security, <br>
+-CyberOpS Associate SIEM and SOAR solution.<br>
+-Familiar with Hardware Digital Design and FPGA.<br>
+-Having good experience in Photo and Video Editing with Adobe PhotoShop and AfterEffects.<br>
+- 📫 How to reach me <br>
 E-Mail: hassangomaa974@gmail.com <br>
 Mobile : +201022133467 <br>
  
@@ -29,13 +29,14 @@ Mobile : +201022133467 <br>
   <img align="left" alt=" LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=hassangomaa)
 
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassangomaa&label=Profile%20views&color=0e75b6&style=flat" alt="hassangomaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassangomaa" alt="hassangomaa" /></a> </p>
+<br>
+<br>
 
  
 **languages and tools:**  
