@@ -12,8 +12,7 @@ I'm Back End Developer at Orange Digital Orange Center, Studies at the faculty o
 having good experience in several domains such as : <br>
 -Software Development : Full Stack using PHP/ MySQL, Laravel framework, HTML/ CSS/ JS and BootStrap Framework <br>
 -Cyber Security: Penetration testing, Offensive Security Certified Professional ( OSCP ), CCNA, CCNP Security, <br>
--CyberOpS Associate SIEM and SOAR solution.<br>
--Familiar with Hardware Digital Design and FPGA.<br>
+-SOC Analyst T1  - CyberOpS Associate SIEM and SOAR solution.<br>
 -Having good experience in Photo and Video Editing with Adobe PhotoShop and AfterEffects.<br>
 - 📫 How to reach me <br>
 E-Mail: hassangomaa974@gmail.com <br>
