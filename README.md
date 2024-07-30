@@ -8,7 +8,7 @@
    
 ### About Me:
 <p align="center">
-I am a passionate Back-End Engineer with over three years of experience specializing in Laravel and Node.js NestJS. I hold a Bachelor's degree in Computer Science from the Faculty of Computer and Artificial Intelligence at Helwan University, Cairo.
+I am a passionate Back-End Engineer at Misraj Technology  with over three years of experience specializing in Laravel and Node.js NestJS. I hold a Bachelor's degree in Computer Science from the Faculty of Computer and Artificial Intelligence at Helwan University, Cairo.
 
 I have a proven track record in software development, particularly in creating scalable, efficient, and secure digital solutions. My expertise spans various domains, including software development, cybersecurity, and SOC analysis. Additionally, I have hands-on experience with photo and video editing using Adobe Photoshop and AfterEffects.
 
