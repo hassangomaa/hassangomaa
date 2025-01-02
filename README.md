@@ -17,20 +17,26 @@ I am always eager to collaborate on innovative projects and contribute to impact
 ### 📫 How to Reach Me:
 - **Email:** hassangomaa974@gmail.com
 
+<br>
+<b></b>LinkedIn:<b/>  
+<br>
+
 <a href="https://www.linkedin.com/in/hassangomaaeng/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
+<img align="left" alt="LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
+<br>
+<br>
 
+<br>
 
-
-
-
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassangomaa&show_icons=true&locale=en&layout=compact" alt="Hassan Gomaa " /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassangomaa&show_icons=true&locale=en" alt="hassangomaa" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassangomaa&" alt="hassangomaa" /></p>
 
 <hr>
 
