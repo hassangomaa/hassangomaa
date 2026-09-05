@@ -20,7 +20,7 @@
 - Senior **backend engineer** · 6 years · **Laravel**, **NestJS**, **FastAPI**
 - Production APIs, GraphQL, WebSockets, auth, and real-time integrations
 - **AI systems** — document pipelines, ML services, agent-assisted delivery
-- **Security** — CCNA + CyberOps ([Credly](https://www.credly.com/users/hassangomaa))
+- **Security** — [CCNA](https://www.credly.com/badges/f25e592d-1013-4131-8187-73fd43e18b1a) + [CyberOps](https://www.credly.com/badges/c730a353-d304-4235-9ab4-187e6708ff70) · Cisco
 
 ### Projects
 
